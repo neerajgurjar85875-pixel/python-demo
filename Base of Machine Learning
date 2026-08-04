@@ -1,0 +1,24 @@
+Machine Learning (ML) is a branch of artificial intelligence (AI) that enables computers to learn patterns from data and make predictions or decisions without being explicitly programmed.
+
+#. What is Machine Learning?
+Machine Learning is the process of training a computer to learn from data instead of following fixed rules.
+
+Example:
+Email spam detection
+Movie recommendations
+Face recognition
+Weather prediction
+
+#types of machine learning 
+1.supervised Learning
+2.Unsupervised Learning
+3.Reinforcement Learning
+
+
+##Popular Python Libraries for ML
+NumPy – Numerical computing
+Pandas – Data manipulation
+Matplotlib – Data visualization
+Scikit-learn – Machine learning algorithms
+TensorFlow – Deep learning
+PyTorch – Deep learning
